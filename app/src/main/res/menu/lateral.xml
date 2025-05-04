@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ml_inicio"
+        android:icon="@drawable/ic_inicio"
+        android:title="Inicio">
+    </item>
+
+    <item
+        android:id="@+id/ml_quienes"
+        android:icon="@drawable/ic_quienes"
+        android:title="Quienes somos">
+    </item>
+
+    <item
+        android:id="@+id/ml_contacto"
+        android:icon="@drawable/ic_contacto"
+        android:title="Contactanos">
+    </item>
+
+
+
+</menu>
